@@ -17,6 +17,7 @@ public class RepasoContornos {
     public static void main(String[] args) {
      for(int x=0;x<=4;x++){
            System.out.println("me estoy rascando un huevo");
+           //no tengo ni puta idea de que estoy haciendo :-))//
      }
     }
     
