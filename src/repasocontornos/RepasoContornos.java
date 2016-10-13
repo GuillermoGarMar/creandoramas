@@ -20,6 +20,8 @@ public class RepasoContornos {
            //no tengo ni puta idea de que estoy haciendo :-))
            if(x==4){
                System.out.println("Me puto aburro un huevo");
+               
+               //sere capaz de aprovar contornos??
            }
      }
     }
