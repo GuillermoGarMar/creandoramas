@@ -15,7 +15,9 @@ public class RepasoContornos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("me estoy rascando un huevo");
+     for(int x=0;x<=4;x++){
+           System.out.println("me estoy rascando un huevo");
+     }
     }
     
 }
