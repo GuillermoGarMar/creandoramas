@@ -14,6 +14,10 @@ public class CreandoRamas {
         // TODO code application logic here
         //inicio
         //una modificacion
+        
+    }
+    public void algonuevo(){
+        
     }
     
 }
